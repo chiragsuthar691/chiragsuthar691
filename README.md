@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsuthar691&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsuthar691" /> </p>
 
-- 🔭 I’m currently working on **Ditty (Discord music bot)**
-
 - 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [http://chiragsuthar.netlify.app/](http://chiragsuthar.netlify.app/)
