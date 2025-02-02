@@ -6,7 +6,7 @@
 - 📫 **Email**: **chetansuthar691@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
-- **Linkedin**: **[[Linkedin](http://chiragsuthar.netlify.app)](http://chiragsuthar.netlify.app)**
+- **Linkedin**: **[http://chiragsuthar.netlify.app](http://chiragsuthar.netlify.app)**
 - **X**: **[https://x.com/Chirags251410](https://x.com/Chirags251410)**</span> 
 
 <h4 align="left">Languages and Tools:</h4>
