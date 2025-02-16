@@ -3,7 +3,7 @@
 
 - 🌱 MERN stack and Python Expert
 - 👨‍💻 **Porfolio**: **[http://chiragsuthar.netlify.app](http://chiragsuthar.netlify.app)**
-- 📫 **Email**: **chetansuthar691@gmail.com**
+- 📫 **Email**: **chiragsuthar691@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 
