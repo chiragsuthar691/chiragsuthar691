@@ -11,7 +11,7 @@ Experienced Software Engineer (2+ years) specializing in JavaScript, TypeScript,
 [![Portfolio](https://img.shields.io/badge/Portfolio-chiragsuthar.netlify.app-brightgreen?style=for-the-badge)](http://chiragsuthar.netlify.app)
 [![Email](https://img.shields.io/badge/Email-chiragsuthar691@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:chiragsuthar691@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://chiragsuthar.netlify.app)
-[![X](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=for-the-badge&logo=x)](https://x.com/Chirags251410)
+[![X](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=for-the-badge&logo=x)](https://x.com/chiragsde)
 
 ## 💼 Work Experience
 
